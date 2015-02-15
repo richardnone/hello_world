@@ -1,3 +1,3 @@
 # hello_world
 
-This is the Github tutorial project.
+This project is created following the Github tutorial (https://guides.github.com/activities/hello-world/).
